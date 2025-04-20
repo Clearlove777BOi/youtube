@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# 下载的视频
+downloads/
+
+# 日志
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
